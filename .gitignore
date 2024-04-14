@@ -6481,3 +6481,8 @@ data/three-sixty/3869519.json
 data/three-sixty/3869552.json
 data/three-sixty/3869684.json
 data/three-sixty/3869685.json
+README.md
+.gitignore
+output.txt
+getDataBase.py
+garbage.py
